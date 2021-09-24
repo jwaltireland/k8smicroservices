@@ -4,3 +4,4 @@ This is a POC on developing .NET Core microservices and deploying to Kubernetes 
 Online Course material:  https://youtu.be/DgVjEo3OGBI
 
 # Deployment
+To doploy this solution to Docker Desktop
